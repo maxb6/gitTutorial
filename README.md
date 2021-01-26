@@ -1,3 +1,3 @@
 # gitTutorial
 
-Some description.
+Some description!
